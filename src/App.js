@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import PhotoInfo from "./PhotoInfo";
+import PhotoInfo from './PhotoInfo';
 
 function App() {
   return (
